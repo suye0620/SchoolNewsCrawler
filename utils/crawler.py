@@ -34,14 +34,31 @@ class zuelCrawler:
         :param endpage:要获取链接的最后一页
         :update list_to_visit: 获取所有页上新闻的url链接,存入list_to_visit
         """
-        for i in range(startpage,endpage+1):
-            temp = "http://wellan.zuel.edu.cn/1668/list{}.htm".format(i+1)
-            try:
-                response = requests.get(temp,headers=self.headers)
-                bs_onepage =  BeautifulSoup(response,"html.parser")
+        temp = "http://wellan.zuel.edu.cn/1668/list{}.htm".format(1)
+        try:
+            response = requests.get(temp,headers=self.headers).content.decode()
+            bs_onepage =  BeautifulSoup(response,"lxml")
+            # list_urls = bs_onepage.find_all("span",attrs={'class':'Article_Title'})
+            list_urls = bs_onepage.select('ul > li.list_item > div.fields.pr_fields > span.Article_Title > a')
+            df = pd.DataFrame(columns=['link','title','site_name','pagenum',])
+            for url in list_urls:
+                list_info = []
+                list_info.append('http://wellan.zuel.edu.cn'+url.attrs['href'])
+                list_info.append(url.attrs['title'])
+                list_info.append(self.site_name)
+                list_info.append(1)
+                df.loc[df.shape[0]] = list_info
+            df.to_csv("./data/urls.csv",encoding='utf-8-sig',index = False)
+        except requests.exceptions.RequestException:
+            return None
+        # for i in range(startpage,endpage+1):
+        #     temp = "http://wellan.zuel.edu.cn/1668/list{}.htm".format(i+1)
+        #     try:
+        #         response = requests.get(temp,headers=self.headers)
+        #         bs_onepage =  BeautifulSoup(response,"html.parser")
 
-            except requests.exceptions.RequestException:
-                return None
+        #     except requests.exceptions.RequestException:
+        #         return None
             
 
 
