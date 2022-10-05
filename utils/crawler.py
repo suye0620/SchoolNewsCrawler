@@ -25,7 +25,7 @@ class ZuelCrawler:
         if status == 200:
             # 使用bs解析网页，获取要翻页的次数
             bs_site = BeautifulSoup(response.text,"html.parser")
-            self.page_num = bs_site.find(name='em',attrs={'class':'all_pages'}).get_text()
+            self.page_num = int(bs_site.select("em.all_pages")[0].get_text())
         else:
             print("访问站点遇到了问题")
     
@@ -40,6 +40,8 @@ class ZuelCrawler:
         """
         for i in tqdm(range(startpage,endpage+1),desc='getUrls:'):
             temp = "http://wellan.zuel.edu.cn/1668/list{}.htm".format(i)
+            if i%10 == 0:
+                sleep(5)
             try:
                 response = requests.get(temp,headers=self.headers).content.decode()
                 bs_onepage =  BeautifulSoup(response,"lxml")
@@ -86,8 +88,8 @@ class ZuelCrawler:
                 f.writelines(article_content)
             # 完成写入，关闭文件
             f.close()
-            if row%11 == 0:
-                sleep(5)
+            # if row%11 == 0:
+            #     sleep(5)
         
 
 
