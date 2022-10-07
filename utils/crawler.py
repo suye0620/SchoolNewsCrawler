@@ -1,13 +1,18 @@
 from time import sleep
 from bs4 import BeautifulSoup
 from tqdm import tqdm
-from multiprocessing import Pool,Process
 from math import floor
 # from itertools import product
-from functools import partial
 import requests
 import re
 import pandas as pd
+from selenium import webdriver
+
+web_option = webdriver.FirefoxOptions()
+web_option.add_argument('--headless')
+web_option.add_argument('--disable-gpu')
+web_option.add_argument('window-size=1200x600')
+web_option.add_argument('--blink-settings=imagesEnabled=false')
 
 # 伪装的请求头
 one_header = {
@@ -136,76 +141,80 @@ class HustCrawler:
             except requests.exceptions.RequestException:
                 return None
 
-def parse(url,headers:dict = one_header)->list:
-    """
-    :param url: 需要解析的一个页面
-    :return article_content: 包含文章内容的所有tag的list
-    """
-    try:
-        res = requests.get(url,headers=headers).content.decode()
-        bs_onearticle = BeautifulSoup(res,'lxml')
-        # article_content = bs_onearticle.select("div.wp_articlecontent > p")
-        article_content = bs_onearticle.find_all(name="div",attrs={"class":"wp_articlecontent"})
-        # article_content是一个列表，索引0取第一个，然后调用get_text方法
-        # list_paragraphs = [p.get_text() for p in article_content].remove('')
+# def parse(url,headers:dict = one_header)->list:
+#     """
+#     :param url: 需要解析的一个页面
+#     :return article_content: 包含文章内容的所有tag的list
+#     """
+#     try:
+#         res = requests.get(url,headers=headers).content.decode()
+#         bs_onearticle = BeautifulSoup(res,'lxml')
+#         # article_content = bs_onearticle.select("div.wp_articlecontent > p")
+#         article_content = bs_onearticle.find_all(name="div",attrs={"class":"wp_articlecontent"})
+#         # article_content是一个列表，索引0取第一个，然后调用get_text方法
+#         # list_paragraphs = [p.get_text() for p in article_content].remove('')
         
-        # return [p.get_text()+'\n' for p in list_paragraphs]
-        return [article_content[0].get_text()]
-    except requests.exceptions.RequestException as e:
-        print(e)
+#         # return [p.get_text()+'\n' for p in list_paragraphs]
+#         return [article_content[0].get_text()]
+#     except requests.exceptions.RequestException as e:
+#         print(e)
     
-def subCrawl(save_path:str, one_df:pd.DataFrame):
-    """
-    :param one_df: 对getUrls生成的df进行拆分后的小df,用于多进程处理
-    """
-    nrow = one_df.shape[0]
-    for row in tqdm(range(nrow),desc='crawling...'):
-        article_content = parse(one_df['link'][row])
-        # 生成存储文件名
-        txtfile_name = one_df['link'][row][26:-9].replace("/","_")+".txt"
-        with open(file=(save_path+txtfile_name),mode='w',encoding='utf-8') as f:
-            f.writelines(article_content)
-        # 完成写入，关闭文件
-        f.close()
+# def subCrawl(save_path:str, one_df:pd.DataFrame):
+#     """
+#     :param one_df: 对getUrls生成的df进行拆分后的小df,用于多进程处理
+#     """
+#     nrow = one_df.shape[0]
+#     for row in tqdm(range(nrow),desc='crawling...'):
+#         article_content = parse(one_df['link'][row])
+#         # 生成存储文件名
+#         txtfile_name = one_df['link'][row][26:-9].replace("/","_")+".txt"
+#         with open(file=(save_path+txtfile_name),mode='w',encoding='utf-8') as f:
+#             f.writelines(article_content)
+#         # 完成写入，关闭文件
+#         f.close()
 
-def crawl(urlsfile_path:str,save_path:str,processes_num=8):
+def createWebdriver(options = web_option,executable_path = './utils/geckodriver.exe'):
+    return webdriver.Firefox(options=options,executable_path=executable_path,log_path="./log/")
+
+def crawl(urlsfile_path:str,save_path:str,startrow:int,webdrivers_num=3):
     """
     :param urlsfile_path: 存储待爬取网址的路径
     :param save_path: 存储爬取结果的路径
-    :param processes_num: 单进程下普通单核cpu只能以20s/it的速度爬取解析.需开启多进程,该参数为进程数
-
+    :param webdrivers_num: 单进程下使用request,普通单核cpu只能以20s/it的速度爬取解析.故考虑使用selenium,开启多个webdriver
     """
     df = pd.read_csv(urlsfile_path,encoding='utf-8-sig')
     nrow = df.shape[0]
-    # 计算每一小份的数量
-    every_epoch_num = floor((nrow/processes_num))
+    mywebdriver = createWebdriver()
+    for row in tqdm(range(startrow,nrow),desc='crawling...'):
+        # 访问
+        mywebdriver.get(df['link'][row])
+        article_content = mywebdriver.find_elements(by='css selector',value='div.wp_articlecontent')[0].text
+        # 生成存储文件名
+        txtfile_name = df['link'][row][26:-9].replace("/","_")+".txt"
 
-    # 对原始的df按照processes_num进行分组
-    pool_dfs = []
-    for index in tqdm(range(processes_num)):
-        if index < processes_num-1:
-            df_tem = df[every_epoch_num * index: every_epoch_num * (index + 1)]
-        else:
-            df_tem = df[every_epoch_num * index:]
-        pool_dfs.append(df_tem.copy())
+        # 写入
+        with open(file=(save_path+txtfile_name),mode='w',encoding='utf-8') as f:
+            # 写入标题
+            f.write(df['title'][row]+'\n')
+            # 写入内容
+            f.write(article_content)
+        # 完成写入，关闭文件
+        f.close()
+        if row%10 == 0:
+            sleep(0.5)
+    # # 计算每一小份的数量
+    # every_epoch_num = floor((nrow/webdrivers_num))
 
-    # 传参冻结
-    new_subCrawl = partial(subCrawl,save_path)
-    # 创建进程池
-    # pool = Pool(processes=processes_num)
-    # for df in pool_dfs:
-    #     pool.apply_async(new_subCrawl,args=(df,))
-    # pool.close()
-    # pool.join()
+    # # 对原始的df按照webdrivers_num进行分组
+    # pool_dfs = []
+    # for index in tqdm(range(webdrivers_num)):
+    #     if index < webdrivers_num-1:
+    #         df_tem = df[every_epoch_num * index: every_epoch_num * (index + 1)].copy()
+    #     else:
+    #         df_tem = df[every_epoch_num * index:].copy()
+    #     pool_dfs.append(df_tem)
 
-    list_processes = []
-    for df in pool_dfs:
-        p = Process(target=new_subCrawl,args=[df])
-        p.start()
-        list_processes.append(p)
-    for p in list_processes:
-        p.join()
-        
+            
         
 
 

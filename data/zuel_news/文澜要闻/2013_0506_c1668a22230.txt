@@ -1,0 +1,22 @@
+我校学生获多项MCM/ICM大奖
+   新闻网讯（通讯员 阎国光 ） 近日，2013年美国大学生数学建模竞赛成绩揭晓，继去年我校获得特等奖提名奖1项、一等奖1项、二等奖3项的优异成绩后，今年我校学生的成绩又上一个新的台阶。在参赛的17组同学中，有3组获得Meritorious Winner奖项（一等奖），6组获得Honorable Mention奖项（二等奖），其余8组均获得Successful Participant奖项（成功参赛奖）。这是我校参加美国大学生数学建模竞赛以来至今取得的最好成绩。
+     美国大学生数学建模竞赛（MCM/ICM）是最著名的国际大学生竞赛之一，是最早的数学建模竞赛。竞赛要求三人为一组，在四天时间内，就指定的问题完成从建立模型、求解、验证到论文撰写的全部工作。2013年美国大学生数学建模竞赛（MCM/ICM）共有超过5600支大学生队伍参加。
+      近年来，我校通过开设数学建模选修课、建立大学生数学建模基地、组建优秀数模指导教师团队，使得数学建模竞赛活动在学生群体中受到越来越多的关注，学生参赛热情持续升温，竞赛成绩不断刷新。
+  Ctrl #  Institution Country Advisor Problem Designation
+23005 ZUEL China Yang Chao A Meritorious Winner
+21134 ZUEL China Shulan Hu B Meritorious Winner
+22806 ZUEL China Yongsheng Jiang B Meritorious Winner
+22188 ZUEL China Ma Zhongming A Honorable Mention
+22356 ZUEL China Yongsheng Jiang A Honorable Mention
+18287 ZUEL China Lei Xiao B Honorable Mention
+21026 ZUEL China Zhengzhon Wang B Honorable Mention
+21817 ZUEL China Guoguang Yan B Honorable Mention
+22687 ZUEL China Yingmei Xu B Honorable Mention
+22739 ZUEL China Xianglan Meng A Successful Participant
+18192 ZUEL China Yongsheng Jiang B Successful Participant
+18887 ZUEL China MA Zhongming B Successful Participant
+20271 ZUEL China Chuanming Yu B Successful Participant
+20450 ZUEL China Guoguang Yan B Successful Participant
+20885 ZUEL China Jingsong Chen B Successful Participant
+21682 ZUEL China Jingsong Chen B Successful Participant
+23671 ZUEL China Haibo Chen B Successful Participant

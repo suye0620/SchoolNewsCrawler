@@ -15,22 +15,22 @@ if __name__ == "__main__":
     # zuelCrawler_1668.getUrls(startpage = 1,endpage = zuelCrawler_1668.getPageNum(),urlsfile_path="./data/zuelurls-文澜要闻.csv")
 
     # 华科学校要闻
-    HustCrawler_xxyw = HustCrawler("http://news.hust.edu.cn/xxyw.htm","华科学校要闻",headers = one_header)
+    # HustCrawler_xxyw = HustCrawler("http://news.hust.edu.cn/xxyw.htm","华科学校要闻",headers = one_header)
     
     # 数要翻页的次数
-    print("查询页数中...")
-    HustCrawler_xxyw.countPageNum()
-    print(HustCrawler_xxyw.getPageNum())
+    # print("查询页数中...")
+    # HustCrawler_xxyw.countPageNum()
+    # print(HustCrawler_xxyw.getPageNum())
     
     # 获取要爬取的url
-    print("翻页中...")
-    HustCrawler_xxyw.getUrls(startpage = 1,endpage = HustCrawler_xxyw.getPageNum(),urlsfile_path="./data/husturls-学校要闻.csv")
+    # print("翻页中...")
+    # HustCrawler_xxyw.getUrls(startpage = 1,endpage = HustCrawler_xxyw.getPageNum(),urlsfile_path="./data/husturls-学校要闻.csv")
     
     # 测试parse函数
     # zuelCrawler_1668.parse(url='http://wellan.zuel.edu.cn/2022/0921/c1668a306614/page.htm')
     
     # 爬取
-    # print("爬取中...")
-    # crawl(urlsfile_path="./data/zuelurls-文澜要闻.csv",save_path="./data/zuel_news/文澜要闻/")
+    print("爬取中...")
+    crawl(urlsfile_path="./data/zuelurls-文澜要闻.csv",save_path="./data/zuel_news/文澜要闻/",startrow=1400)
     # zuelCrawler_1668.crawl(urlsfile_path="./data/urls.csv",save_path="./data/zuel_news/")
 
