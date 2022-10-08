@@ -1,0 +1,24 @@
+我校本科生获美国数模MCM/ICM竞赛特等奖
+新闻网讯　2月19日至23日，2010年第26届美国大学生数学建模竞赛MCM/ICM举行，我校48名队员参赛并取得佳绩。
+16支参赛队共获得5项一等奖、6项二等奖和4项三等奖，土木学院熊哲、梅启培、韩飞3位同学组成的参赛队获得了MCM最高奖项——Outstanding Winner（SIAM Award），即特等奖，这是我校参加该项国际赛事20年来首次获得特等奖，也突破了湖北赛区参加该项国际赛事以来获得特等奖的零的记录。
+MCM（The Mathematical Contest in Modeling）是一个由美国工业与应用数学学会（Society for Industrial and Applied Mathematics，SIAM）、美国国家安全局与美国运筹与管理学会（Institute for Operations Research and the Management Sciences，INFORMS）资助，由数学及其应用联合会（Consortium for Mathematics and Its Applications，COMAP）举办的国际性大学生数学建模竞赛，于1985发起，今年是第26届，ICM（The Interdisciplinary Contest in Modeling）是2000年新增的交叉性学科竞赛项目，今年是第12届，两项赛事同时进行。
+MCM/ICM竞赛时，由同一所大学的三名大学生组成一支参赛队，从A、B、C三道题（其中A、B为MCM竞赛题，C为ICM竞赛题）中选择一题，在规定的四天96小时内通过建立数学模型来解决所提出的问题，并将解决方案用英文写成竞赛论文。参赛学生可以自由地收集各种可用的数据、文献和资料，可以利用计算机，但不允许与同组队员之外的其他人交流。比赛设置特等奖Outstanding Winners、一等奖Meritorious Winners、二等奖Honorable Mentions、三等奖Successful Participants等4个奖项。
+2010年共有来自全世界14个国家的2254支代表队参加了MCM比赛，共评选出9项特等奖，431项一等奖；来自全世界4个国家的356支队参加了ICM比赛，共评选出4项特等奖，45项一等奖。
+表一：我校2010年参加第26届MCM/ICM获奖名单
+序号 获奖队员 指导老师 获奖等级
+1 熊哲 梅启培 韩飞 高 亮 Outstanding Winner 特等奖（SIAM Award）
+2 成硕 张莹 曾耀辉 高 亮 Meritorious Winner  一等奖
+3 谢远成 祁成 肖爽 梅正阳 Meritorious Winner  一等奖
+4 黎英 胡宏 罗杨 王湘君 Meritorious Winner  一等奖
+5 王龙涛 许鹏 王洪泽 路志宏 Meritorious Winner  一等奖
+6 吴江滨 周音志 陈骥 吴 娟 Meritorious Winner  一等奖
+7 葛敬广 付高生 陈超彬 刘 斌 Honorable Mention  二等奖
+8 蔡稳 邱妮娜 吴悦 刘 斌 Honorable Mention  二等奖
+9 黄梅龙 尹涛 万纯 何南忠 Honorable Mention  二等奖
+10 宋冠男 李昕龙 刘精雯 王湘君 Honorable Mention  二等奖
+11 杨赛勇 朱邦义 陈天笑 路志宏 Honorable Mention  二等奖
+12 尹知萌 王跃铭 王维 吴 娟 Honorable Mention  二等奖
+13 徐焰 罗亚 姜磊 何南忠 Successful Participant  三等奖
+14 李勇 黄诗瀚 熊祎 梅正阳 Successful Participant  三等奖
+15 杨智 胡涛 陈鑫鹏 韩志斌 Successful Participant  三等奖
+16 李瓅 刘薇 罗凯元 韩志斌 Successful Participant  三等奖

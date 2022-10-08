@@ -1,0 +1,4 @@
+《生物化学杂志》刊发生命学院一研究成果
+新闻网讯（通讯员　汪盛　刘浩文）4月25日，国际生物化学顶级杂志《生物化学杂志》（Journal of Biological Chemistry）在线刊发了教育部分子生物物理重点实验室丁久平教授团队的重要研究成果，题为“钙离子和镁离子调控大电导钙激活钾通道BKCa(β1)及其辅助亚基（β1）的结构基础”（Structural Basis for Calcium and Magnesium Regulation of Large Conductance Calcium-Activated Potassium Channel with 1 subunits）。
+继2013年4月16日《自然》（Nature）子刊《科学报告》（Scientific Reports）报道该团队的BKCa(β2)亚基成果以来，该团队结合细胞电生理与计算结构生物学，精确透彻地阐明了BKCa(β1)通道的抑制性镁激活的作用通路及机制（H site）和增强性钙激活的作用通路及机制（E site和Hsite）。据了解，该文有望作为JBC封面文章。该研究是在汪盛副教授及丁久平教授的指导下，由博士生刘浩文、侯盼盼、郭西英等共同完成。
+同时，该团队与中科大合作研究KCNQ1与其辅助亚基KCNE1/KCNE2的论文，于4月17日再次被《科学报告》刊登，该研究汪盛副教授利用计算结构生物学成功预测KCNE1/KCNE2相关作用位点及作用模式，论文在丁久平教授和中科大田长麟教授的指导下，由博士生李盼（中科大）、刘浩文等共同完成。

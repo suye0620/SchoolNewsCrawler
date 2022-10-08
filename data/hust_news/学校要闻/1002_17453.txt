@@ -1,0 +1,10 @@
+2009微软创新杯我校学子再创佳绩
+新闻网讯　2009年7月3日至8日，微软“创新杯”全球学生大赛在埃及首都开罗举行，我校学子再创佳绩。
+中国区参赛选手由我校学生担当主力，参赛的14位同学中有13位同学来自华中科技大学。在我校学子参赛的四个项目中，共有三项获得全球第二名。其中，来自电工电子科技创新中心的iSee团队获得嵌入式开发项目全球第二名，成员由来自电气学院毛彪、张玄，电子系彭浩、唐秀东组成；联创团队的吴畅同学获IT挑战项目全球第二名；来自计算机学院申林、邱卫超、邹沅辰和电信系汪喆组成的Unique Studio （联创）团队获得“无限潜力设计开发奖”全球第二名。另外，iSee团队还同时获得“可访问性奖”提名奖。
+据悉，创新杯是全球首屈一指的学生技术竞赛，它让学生们释放出自己的创造天赋，并开发出能解决当今社会所面临的现实问题的解决方案。
+微软开发人员与平台事业部学术计划高级总监 Joe Wilson 表示：“今年，学生们在自己的项目中倾注了惊人的创造力与想象力。这些项目中有许多可能会对我们如何解决当今社会最棘手的问题产生重大影响。我们希望今年所有参赛学生在努力营造一个更美好世界的同时能继续从事技术创造活动。”
+2009微软“创新杯”的主题是“开创一个科技能解决当今社会最严峻问题的世界”(Imagine a world where technology helps solve the toughest problems facing us today)。来自全球149支队伍的共444名学生参加了2009创新杯全球总决赛 (Imagine Cup 2009 Worldwide Finals)，他们代表70个国家和地区参加了9个类别的角逐：软件设计 (Software Design)、嵌入式开发 (Embedded Development)、游戏开发 (Game Development)、IT挑战 (IT Challenge)、机器人与算法 (Robotics and Algorithm)、糅合 (MashUp)、摄影 (Photography)、短片 (Short Film) 和设计 (Design)。除了这些主要竞赛类别外，今年大赛还设置了若干成就奖，其中包括互操作性奖 (Interoperability Award)、无限潜力设计开发奖 (Unlimited Potential Design for Development Award)、无限潜力多点教育奖 (Unlimited Potential MultiPoint Education Award)、可访问性奖 (Accessibility Award)、可用设计奖 (Accessible Design Award)、平行计算奖 (Parallel Computing Award)、平板可访问性奖 (Tablet Accessibility Award)、即时服务奖 (Live Services Award)、Windows 移动奖 (Windows Mobile Award)，以及由埃及第一夫人通过 Cyber Peace Initiative (CPI) 赞助的苏珊-穆巴拉克特别奖 (H.E. Mrs. Suzanne Mubarak Special Award)。中国团队入围的项目包括软件设计、嵌入式开发、机器人与算法、IT挑战以及Unlimited Potential Design for Development Award。
+据悉，2010年微软创新杯总决赛将在波兰举行。2010创新杯的注册从2009年7月8日开始。关于创新杯的更多信息，请访问 http://imaginecup.com。
+iSee团队获得嵌入式开发项目第二名
+Unique Studio团队获得无限潜力设计开发奖第二名
+吴畅获得IT挑战赛第二名

@@ -1,4 +1,4 @@
-from utils.crawler import ZuelCrawler,crawl,one_header,HustCrawler
+from utils.crawler import ZuelCrawler,crawlZuel,one_header,HustCrawler,crawlHust
 
 if __name__ == "__main__":
     
@@ -31,6 +31,9 @@ if __name__ == "__main__":
     
     # 爬取
     print("爬取中...")
-    crawl(urlsfile_path="./data/zuelurls-文澜要闻.csv",save_path="./data/zuel_news/文澜要闻/",startrow=1400)
+    # zuel
+    # crawlZuel(urlsfile_path="./data/zuelurls-文澜要闻.csv",save_path="./data/zuel_news/文澜要闻/",startrow=1400)
+    # hust
+    crawlHust(urlsfile_path="./data/husturls-学校要闻.csv",save_path="./data/hust_news/学校要闻/",startrow=270)
     # zuelCrawler_1668.crawl(urlsfile_path="./data/urls.csv",save_path="./data/zuel_news/")
 
