@@ -1,0 +1,13 @@
+生命学院栗茂腾课题组利用CRISPR-Cas9实现对甘蓝型油菜LPAT基因的功能解析
+新闻网讯（通讯员 张凯）9月20日，生命学院栗茂腾教授课题组在生物能源领域顶级杂志Biotechnology for Biofuels发表了标题为Effective editing for lysophosphatidic acid acyltransferase 2/5 in allotetraploid rapeseed (Brassica napus L.) using CRISPR-Cas9 system的研究论文（文章链接：https://biotechnologyforbiofuels.biomedcentral.com/articles/10.1186/s13068-019-1567-8），成功利用CRISPR-Cas9实现对甘蓝型油菜LPAT基因的功能解析。
+
+
+甘蓝型油菜（Brassica napus）是最为重要的油料作物之一，研究其油脂合成与代谢对培育高含油量油菜品种具有重要意义。甘蓝型油菜是由白菜和甘蓝杂交进而经过染色体加倍而形成的异源四倍体，高效地敲除其所有基因拷贝对研究甘蓝型油菜含油量基因调控具有重大意义。
+
+溶血磷脂酸酰基转移酶(lysophosphatidic acid acyltransferase, LPAT)作为肯尼迪途径中的关键酶之一，对油脂合成具有重要调控作用。高效敲除LPAT所有拷贝对揭示其在油脂合成过程中的作用具有重要意义。
+
+该论文针对具有7个拷贝的BnLPAT2和具有4个拷贝的BnLPAT5的保守基因编码区分别设计了3个和1个gRNA靶点，并分别构建成4个单靶点载体和2个多靶点载体。转基因后代序列分析发现：BnLPAT2基因所对应的7个拷贝和BnLPAT5基因所对应的4个拷贝都发生了突变，并且其潜在的脱靶位点上均没有检测到脱靶现象。基因敲除的转基因后代表型发生了明显变化，Bnlpat2和Bnlpat5突变株的成熟种子和野生型相比，种子出现了明显干瘪，含油量明显下降；透射电镜观察表明Bnlpat2、Bnlpat5及Bnlpat2/Bnlpat5突变株系种子的油体数量明显变少，且部分株系中出现了超大油体。含油量分析表明：单靶点敲除Bnlpat2突变系中含油量平均下降了32%，Bnlpat5突变系平均下降了29%，同时敲除LPAT2/LPAT5的多靶点突变系含油量下降了39%。本研究对于甘蓝型油菜等多倍体植物的基因功能研究具有借鉴作用。
+
+本论文通讯作者为栗茂腾，第一作者为生命学院博士生张凯，来自华中科技大学大学生创新创业训练计划项目小组成员也参加了相关研究工作。本研究得到国家自然科学基金（31671721）、国家基础研究计划（2015CB150205）等项目的资助。
+
+栗茂腾课题组长期从事油菜分子生物学研究，在甘蓝型油菜含油量性状的基因定位、基因克隆、基因编辑及分子设计育种等开展了系列工作。近五年，在Plant Biotechnology Journal, Theoretical and Applied Genetics, BMC genomics, Journal of Proteome Research等期刊发表SCI论文40余篇，其中多篇论文为ESI高被引论文和期刊TOP论文，受到国内外同行的广泛关注。

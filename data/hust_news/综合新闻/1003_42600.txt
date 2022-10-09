@@ -1,0 +1,12 @@
+生命学院“环境资源微生物技术”团队在揭示裂解性多糖单加氧酶生物学功能方面取得新进展
+新闻网讯 8月28日，我校生命学院“环境资源微生物技术”团队在环境微生物学领域国际著名期刊《Environmental Microbiology》发表题为“Lytic polysaccharide monooxygenases promote oxidative cleavage of lignin and lignin–carbohydrate complexes during fungal degradation of lignocellulose”的研究论文。团队的余洪波教授、谢尚县教授、张晓昱教授为论文共同通讯作者，博士后李飞和博士张佳龙为论文的共同第一作者。
+
+
+
+秸秆、木材等木质纤维素类生物质是地球陆地生态系统中最丰富的可再生资源，木质纤维素的生物降解转化对维持全球碳循环和生物炼制产业的发展具有重要作用。裂解性多糖单加氧酶(Lytic polysaccharide monooxygenase，LPMO)广泛分布于真菌、细菌、古菌和昆虫中，因其多样化的多糖氧化裂解功能而备受关注。本研究中，研究人员结合木质纤维素超分子结构表征和差异蛋白质组分析技术，揭示了LPMO在木腐菌Pleurotus ostreatus降解非多糖底物中的新作用。研究首次发现LPMO通过醌氧化还原循环途径增强胞外Fenton反应，进而氧化断裂木质素（Lignin）和木质素—碳水化合物复合物（Lignin-Carbohydrate Complexes，LCC）内部的交联结构，降低木质纤维素的转化抗性，实现其高效生物转化。该发现进一步拓展了LPMO的生物学功能，对明晰木腐菌胞外氧化还原酶协同转化木质纤维素的机制具有重要意义。
+
+近年来，“环境资源微生物技术”团队聚焦于裂解性多糖单加氧酶氧化非多糖底物的催化机理、生物学功能和应用研究，取得一系列重要成果，包括：Applied and Environmental Microbiology 85 (2019):e02803-18；International Journal of Biological Macromolecules 161 (2020):308-314；Journal of Agricultural and Food Chemistry 69 (2021):7104-7114；Journal of Agricultural and Food Chemistry 69 (2021):1049-1056；Carbohydrate Polymers 253 (2021):117241等。
+
+本研究得到国家自然科学基金（31870083、32000067）、中国博士后科学基金（2020M672325）和湖北省博士后创新研究岗位（2020年）的资助。
+
+论文链接：https://doi.org/10.1111/1462-2920.15648

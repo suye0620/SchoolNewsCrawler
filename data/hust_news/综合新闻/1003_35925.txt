@@ -1,0 +1,8 @@
+经济学院代昀昊副教授最新研究成果解析高管薪酬影响因素
+新闻网讯（通讯员 张鹃）经济学院代昀昊副教授与英国剑桥大学P. Raghavendra Rau教授、香港浸会大学Aris Stouraitis教授和谭伟强助理教授的合作研究成果“An ill wind? Terrorist attacks and CEO compensation”被金融学国际顶尖期刊《Journal of Financial Economics》接受并在线发表。
+
+
+影响CEO薪酬的因素是当前公司金融研究领域的一个重要话题，但现有文献从非货币因素（nonmonetary factors）提供的证据较少，且结论也并不一致。Global Terrorism Database (GTD)提供的美国各州的恐怖袭击数据给我们提供了一个较好的外生冲击事件，让我们能够考察外部环境这类非货币因素对CEO薪酬的影响。具体而言，论文发现相较于距离恐怖袭击较远的企业，位于恐怖袭击附近的企业其CEO的薪酬在恐怖袭击之后会有约12%的提升。位于恐怖袭击附近企业的CEO在薪酬方面表现出对现金报酬增加（如工资、奖金）的偏好要高于股票报酬（如期权、股票）。进一步检验发现，恐怖袭击对CEO薪酬的影响在CEO谈判能力较强时更强。此外，该文还发现企业的其他高管以及普通员工的薪酬没有受到恐怖袭击的影响。该项研究获得了国家自然科学青年基金项目（编号71702061）的资助。
+
+Journal of Financial Economics是由美国罗切斯特大学商学院主办，作为涵盖金融经济学理论和实证研究课题的同行评议学术期刊，与Journal of Finance (JF)和Review of Financial Studies (RFS)被公认为全球三大顶级金融学期刊。
+  论文链接：https://doi.org/10.1016/j.jfineco.2019.06.005

@@ -1,0 +1,8 @@
+光电信息学院本科生发表高水平论文
+新闻网讯（通讯员 刘承浩 陈世英）12月12日，光电信息学院2013级本科生周祎舒以共同第一作者的身份，在《德国应用化学》（Angewandte Chemie International Edition）上发表论文“Self-Powered Multimodal Temperature and Force Sensor Based-On a Liquid Droplet”，影响因子达11.7。
+
+论文研究基于液滴的温度和压力传感器。温度和压力传感器是当前电子皮肤和人工智能系统里非常重要的组件，近年来具有温度和压力双传感能力的传感器组件尤其受到大家的关注。传统的压力、温度双传感器件都是将温度传感器和压力传感器并联使用分别得到温度和压力参数，然后再分别进行处理。这类传感器在使用的过程中存在温度和压力测点不统一以及微小化后系统并行处理过于复杂的问题。因此寻找利用单一器件从同一位点同时测量温度和压力信号是解决这一现有问题的有效方法，周祎舒的这篇论文提出了相应的解决办法。
+
+德国应用化学，是国际化学类权威期刊，收录的文章以简讯类为主，简讯主要分布在有机化学、生命有机化学、材料学、高分子化学等领域，无机化学、物理化学涉及相对较少。
+
+作者周祎舒成绩优异，本科三年总加权成绩居全年级第三，连续三年获得国家奖学金，并荣获2016年度校三好学生标兵的称号，至今已发表数篇高影响因子的学术论文，她参与的论文“Wearable Thermocells Based on Gel Electrolytes for the Utilization of Body Heat”及“Flexible Microfluidics Generator for Self-powered Systems”分别发表于Angewandte Chemie（影响因子11.7）和Nano Energy（影响因子11.5）。

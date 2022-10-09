@@ -1,6 +1,4 @@
 from time import sleep
-from typing_extensions import Self
-from bs4 import BeautifulSoup
 from tqdm import tqdm
 import re
 import pandas as pd
@@ -37,19 +35,18 @@ class ZuelCrawler:
         self.headers = headers
         self.list_to_visit = []
         self.page_num = 0
-        self.webdriver = createWebdriver()
 
-    def countPageNum(self):
+    def countPageNum(self,mywebdriver):
         """
         :update page_num: 该站点需要翻页的次数,用于生成待爬取url
         """
-        self.webdriver.get(self.site)
-        self.page_num = self.webdriver.find_element(by='css selector',value='em.all_pages').text
+        mywebdriver.get(self.site)
+        self.page_num = int(mywebdriver.find_element(by='css selector',value='em.all_pages').text)
 
     def getPageNum(self)->int:
         return self.page_num
     
-    def getUrls(self,startpage:int,endpage:int,urlsfile_path:str):
+    def getUrls(self,mywebdriver,startpage:int,endpage:int,urlsfile_path:str,):
         """
         :param startpage: 要获取链接的第一页
         :param endpage: 要获取链接的最后一页
@@ -60,23 +57,19 @@ class ZuelCrawler:
             temp = "http://wellan.zuel.edu.cn/1669/list{}.htm".format(i)
             if i%10 == 0:
                 sleep(5)
-            try:
-                self.webdriver.get(temp)
-                list_urls = self.webdriver.find_elements(by='css selector',value='ul > li.list_item > div.fields.pr_fields > span.Article_Title > a')
-                df = pd.DataFrame(columns=['link','title','site_name','pagenum',])
-                for url in list_urls:
-                    list_info = []
-                    list_info.append(url.get_attribute('href'))
-                    list_info.append(url.get_attribute['title'])
-                    list_info.append(self.site_name)
-                    list_info.append(i)
-                    # append方法要被废弃了，有点无语，暂时用下面的写法
-                    df.loc[df.shape[0]] = list_info
-                df.to_csv(urlsfile_path,encoding='utf-8-sig',index = False,mode='a',header=False)
-            except:
-                return None
-        self.webdriver.close()
-
+            mywebdriver.get(temp)
+            list_urls = mywebdriver.find_elements(by='css selector',value='ul > li.list_item > div.fields.pr_fields > span.Article_Title > a')
+            df = pd.DataFrame(columns=['link','title','site_name','pagenum',])
+            for url in list_urls:
+                list_info = []
+                list_info.append(url.get_attribute('href'))
+                list_info.append(url.get_attribute('title'))
+                list_info.append(self.site_name)
+                list_info.append(i)
+                # append方法要被废弃了，有点无语，暂时用下面的写法
+                df.loc[df.shape[0]] = list_info
+            df.to_csv(urlsfile_path,encoding='utf-8-sig',index = False,mode='a')
+        
 class HustCrawler:
     """
     爬取华科综合新闻的爬虫
@@ -94,7 +87,7 @@ class HustCrawler:
         :update page_num: 该站点需要翻页的次数,用于生成待爬取url
         """
         self.webdriver.get(self.site)
-        self.page_num = int(re.findall("/[1-9][0-9][0-9]",string=self.webdriver.find_element(by='css selector',value='"#fanye208414"').text)[0][1:])
+        self.page_num = int(re.findall("/[1-9][0-9][0-9]",string=self.webdriver.find_element(by='css selector',value='#fanye208414').text)[0][1:])
 
     def getPageNum(self)->int:
         return self.page_num
@@ -121,7 +114,7 @@ class HustCrawler:
                 for url in list_urls:
                     list_info = []
                     list_info.append(url.get_attribute('href'))
-                    list_info.append(url.get_attribute['title'])
+                    list_info.append(url.get_attribute('title'))
                     list_info.append(self.site_name)
                     list_info.append(i)
                     # append方法要被废弃了，有点无语，暂时用下面的写法
@@ -129,9 +122,8 @@ class HustCrawler:
                 df.to_csv(urlsfile_path,encoding='utf-8-sig',index = False,mode='a',header=False)
             except:
                 return None
-        self.webdriver.close()
-
-def crawlZuel(urlsfile_path:str,save_path:str,startrow:int=0,webdrivers_num=3):
+        
+def crawlZuel(urlsfile_path:str,save_path:str,startrow:int=0):
     """
     :param urlsfile_path: 存储待爬取网址的路径
     :param save_path: 存储爬取结果的路径
@@ -155,8 +147,7 @@ def crawlZuel(urlsfile_path:str,save_path:str,startrow:int=0,webdrivers_num=3):
             f.write(article_content)
         # 完成写入，关闭文件
         f.close()
-        if row%5 == 0:
-            sleep(0.5)
+        sleep(0.5)
     mywebdriver.close()
 
 def crawlHust(urlsfile_path:str,save_path:str,startrow:int=0,webdrivers_num=3):

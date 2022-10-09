@@ -1,0 +1,8 @@
+电信学院葛晓虎教授论文获评IET Networks期刊年度最佳论文
+新闻网讯（通讯员　张轶）近日，电信学院葛晓虎教授团队论文获国际期刊IET Networks2017年度唯一最佳论文奖。该论文题为“Energy Efficiency of Small Cell Backhaul Networks Based on Gauss-Markov Mobile Models”。
+
+团队发表这篇论文是国际最早研究5G无线回程网络能效优化的论文之一，通过分析蜂窝网中接入用户移动特性提出了5G无线回程网络能效模型，进而基于理论仿真给出了5G回程基站优化部署方案提升全网能效。
+
+IET Networks期刊是The Institution of Engineering and Technology国际学术机构下属的网络领域权威期刊，也是SCI索引期刊，该期刊每年从过去两年内发表的所有论文中择优评选一篇论文作为当年期刊年度最佳论文奖。
+
+围绕未来ICT产业节能减排主题，电信学院依托葛晓虎等教授团队积极开展国际合作研究，获批建设国家绿色通信与网络国际联合研究中心，针对未来无线通信和网络中的节能减排和提升能效开展了深入理论研究，取得了初步成效：已有8篇代表性论文被列为ESI高被引论文，其中2篇发表在国际权威期刊IEEE Transactions on Communications和IEEE Network论文更是成为2017年ESI热点论文（HOT PAPER），1篇论文被IEEE Communications Society(通信学会)评选为绿色通信领域最佳论文。基于上述学术研究成果，国家绿色通信与网络国际联合研究中心已成为我国ICT产业节能减排研究的创新领军者。

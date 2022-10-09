@@ -1,0 +1,9 @@
+电信学院本科生在ICCV2019发表论文
+新闻网讯（通讯员 林宏志 许永超）7月22日，人工智能领域计算机视觉方向的国际顶级学术会议The 17th IEEE International Conference on Computer Vision (ICCV 2019) 公布了录取论文，电信学院2016级本科生徐晨丰的一篇论文被录取。徐晨丰的论文题为Learn to Scale: Generating Multipolar Normalized Density Map for Crowd Counting，电信学院许永超副教授与副院长白翔教授为指导教师。
+
+ICCV (The IEEE International Conference on Computer Vision，CCF A类)国际会议是计算机视觉方向（CV）最权威的国际专业学会之一。该会议由IEEE主办，与计算机视觉模式识别会议（CVPR）和欧洲计算机视觉会议（ECCV）并称计算机视觉方向的三大顶级会议，在业内具有极高的评价。不同于在美国每年召开一次的CVPR和只在欧洲召开的ECCV，ICCV在世界范围内每两年召开一次。
+
+
+徐晨丰
+
+徐晨丰的论文提出了一种基于尺度学习模块的密度图回归模型，用于解决静态图中的人群密度分布与人数统计任务，有效提升了在极其密集下的人群个数统计准确率以及在不同场景下模型的泛化性能，在相关数据集的自动评测中都取得了超过现今最优效果的方法。

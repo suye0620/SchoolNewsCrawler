@@ -1,0 +1,20 @@
+第十届智能机器人与应用国际会议在武汉召开
+新闻网讯（通讯员 张丽如）8月16日至18日，由国家自然科学基金委员会和华中科技大学联合主办，由华中科技大学机械学院与数字制造装备与技术国家重点实验室承办的“第十届智能机器人与应用国际会议（The 10th International Conference on Intelligent Robotics and Applications, ICIRA 2017）”在湖北武汉东湖宾馆会议中心顺利召开。这是继首届ICIRA会议在武汉召开后，陆续在新加坡、德国、加拿大、韩国、英国、日本等国家举办后再次回到武汉，以此纪念ICIRA会议成功举办十周年。    
+
+本次大会邀请了来自美国、英国、瑞士、德国、日本、加拿大、新加坡、澳大利亚以及国内著名大学和研究机构的8位专家作大会/主题报告，51位专家作特邀报告，235位机器人领域的权威专家、学者和工程师作口头报告。大会围绕“共融机器人”主题，共设有48个分论坛，涉及领域包括微纳-仿生-软体机器人、康复机器人、水下机器人、飞行与航天机器人、机器人加工、智能制造、人机交互、机器视觉等14个主题，并举办研讨会，吸引了国内外参会者700余位。除此之外，大会还组织了相关机器人的小型展览会。经过大会筛选和申办单位演讲，ICIRA 2018将由澳大利亚纽卡斯尔大学承办。
+
+ICIRA2017会议于8月16日上午8:30在东湖宾馆会议中心黄鹤厅正式开幕。华中科技大学校长丁烈云院士和湖北省科学技术协会副主席刘松林教授先后致欢迎辞；华中科技大学机械学院院长、大会主席丁汉院士阐述了ICIRA的发展历史，并介绍了ICIRA由大会名誉主席熊有伦院士在2007年创立并担任首届ICIRA大会主席，及推动机器人发展的重要意义；大会共同程序主席黄永安教授对ICIRA 2017会议的准备工作进行了介绍。随后，与会专家代表进行了合影留念。
+
+大会第一天，日本工程院院士福田敏男（Toshio Fukuda）教授主持了当天的大会报告，瑞士洛桑理工学院Aude Billard教授作了题为“Machine Learning for Estimating Robust Control Laws（鲁棒控制评估的机器学习）”的大会报告，香港大学席宁教授作了题为“Non-vector Space Approach for Optimization and Control（优化与控制的非向量空间方法）”大会报告。大会第二天，中科院北京自动化所乔红主持大会报告，瑞士洛桑理工学院Dario Floreano教授作了题为“Soft Robotic Technologies for Safe, Robust, Smart Drones（面向安全、可靠、灵巧无人机的软机器人技术）”，北京理工大学黄强教授作了题为“Biomimetic Design and Control for BHR Humanoids（类人机器人的仿生设计与控制）”；中国科学技术大学陈小平主持了主题报告，中国机械工业联合会宋晓刚教授作了题为“Application to Promote the Development and Innovation of Robotics Industry（机器人工业发展与创新）”，新加坡国立大学David HSU教授作了题为“Robot-Human Adaptation and Mutual Adaptation（机器人与人的自适应与相互协调）”，晚宴颁发了ICIRA 2017最佳论文和优秀论文奖。大会第三天，韩国釜山大学Jangmyung Lee教授主持了大会报告，美国斯坦福大学Oussama Khatib教授作了题为“Ocean One: A Robotic Avatar for Oceanic Discovery(海洋一号：海洋探索的机器人阿凡达)”，德国科学院院士、汉堡大学张建伟教授作了题为“Experience-based, Crossmodal Learning of Robot Systems（机器人系统的基于经验、交叉模型的学习）”。
+
+ICIRA会议是智能机器人领域的重要国际会议，用于展示在机器人、智能制造、机电一体化等相关领域方面最新研究成果、讨论研究现状以及展望将来的发展方向。而本次会议在整合产、学、研、用各方资源，建立了人才培养和国际合作方面起到重要作用，从而进一步推动国内外机器人科技研发和产业化进程。
+
+开幕式致辞
+
+与会专家代表合影
+
+大会/主题报告
+
+大会现场
+
+ICIRA 2017会议信息http://www.icira2017.org/

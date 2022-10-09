@@ -1,0 +1,8 @@
+白翔教授作为首位中国嘉宾在ICDAR国际会议作特邀报告
+新闻网讯　11月15日，受第14届国际文档分析与识别大会 (International Conference on Document Analysis and Recognition, ICDAR 2017)邀请，电信学院白翔教授在大会上做了名为“Deep Neural Network for Scene Text Reading Revisited”的特邀报告(Keynote Speech)。
+
+在长达一个小时的报告中，白翔简要总结了近年来自然场景文本检测与识别这一热点研究方向的发展及现状，介绍了其研究团队结合深度学习在此领域所取得的重要研究方法及相关应用技术，并对该方向的发展趋势做出了全面展望。白翔的报告内容丰富，深入浅出，赢得了参会学者的广泛赞誉。他是ICDAR自首次举办至今26年来第一位来自中国的主讲嘉宾，展现了中国学者在此领域的影响力。
+
+白翔是国内成立的首个关于文档分析的专业委员学术委员会“中国图象图形学会文档图像分析与识别专委会”主要发起人之一，他的研究团队已在相关领域的顶级期刊会议上发表论文数十篇，在文档分析领域具有较大的学术影响力。
+
+International Conference on Document Analysis and Recognition (ICDAR) （网址http://u-pat.org/ICDAR2017/index.php）每两年举办一次，是文档分析领域的最权威的国际会议，是世界范围内所有文档分析领域研究者最主要的交流平台。ICDAR今年的会议地点在日本古城京都，吸引了来自学术界和工业界（包括多家国际知名企业如Google， Adobe， Nvidia， 百度， 腾讯，阿里巴巴，三星等）500多名研究人员参加。

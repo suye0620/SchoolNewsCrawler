@@ -1,0 +1,16 @@
+梨园医院金肆教授团队在糖尿病并发动脉粥样硬化性心血管病领域取得重要进展
+新闻网讯（通讯员张翔）近日，内分泌代谢领域国际权威期刊《代谢Metabolism》（JIF:13.934）正式发表我校同济医学院附属梨园医院内分泌科金肆教授团队题为“Deacetylation of Caveolin-1 by Sirt6 induces autophagy and retards high glucose-stimulated LDL transcytosis and atherosclerosis formation”重要研究成果，在国际上首先报道了小窝蛋白Caveolin-1在去乙酰化酶SIRT6介导的去乙酰化激活自噬性降解并抑制高血糖刺激的低密度脂蛋白LDL穿胞和动脉粥样硬化形成，表明SIRT6/Caveolin-1自噬途径在糖尿病并发心血管疾病中起着至关重要的作用。
+
+该成果主要由博士生赵颖、贾雄作为共同第一作者完成，团队其他成员参与了该项研究，金肆教授为通讯作者，我校为第一完成单位。
+
+糖尿病人最主要的死亡原因是心血管并发症（ASCVD），动脉粥样硬化（AS）是糖尿病心血管病并发症发病学基础。在国家自然科学基金、教育新世纪优秀人才支持基金、湖北省医学领军人才基金等的支持下，金肆教授团队于2014年在国际上首先证明低密度脂蛋白LDL通过在血管内皮细胞中穿胞(transcytosis)向内皮下沉积是动脉粥样硬化的始动环节，在动脉粥样硬化形成中至关重要(BJP,2014; JMCC,2014)，相关成果被国际动脉粥样硬化学会（IAS）网站置顶推荐，已被国际SCI论文引用200余次。2020年在国际上首先报道糖尿病人高血糖可通过抑制内皮细胞小窝蛋白-1的自噬降解，促进LDL跨内皮细胞穿胞增多，从而加速动脉粥样硬化的进展（Autophagy, 2020），相关成果被欧洲动脉粥样硬化学会（EAS）发布的血脂管理指南特别引用。
+
+
+
+SIRT6是sirtuins家族的一个去乙酰化酶，Nature最新报道SIRT6可帮助人类寿命达120岁，被称为长寿基因。由于SIRT6是一种染色质相关的蛋白质，具有去乙酰化酶活性，它是否可以调节小窝蛋白-1乙酰化修饰并调节小窝蛋白-1的自噬降解尚不清楚。在这项研究中，金肆教授团队通过免疫组织化学评估了妊娠糖尿病（GDM）患者脐带的组蛋白乙酰化水平，建立了LDL穿胞的体外模型以阐明SIRT6在跨内皮细胞LDL穿胞中的作用，使用APOE基因敲除小鼠建立糖尿病动脉粥样硬化模型探索高血糖条件下小窝蛋白Caveolin-1自噬降解的影响。研究发现妊娠糖尿病和2型糖尿病（T2DM）患者小窝蛋白-1和乙酰化组蛋白H3水平显着升高，而自噬标志蛋白LC3B和SIRT6在血管壁的内皮细胞中下调。免疫共沉淀表明，SIRT6与小窝蛋白1相互作用，并决定了小窝蛋白-1乙酰化水平。免疫电子显微镜进一步表明，SIRT6的过表达触发了Caveolin-1的自噬溶酶体降解。通过腺相关病毒载体血清型9（AAV9）介导SIRT6内皮细胞特异性过表达诱导自噬，内皮细胞小窝蛋白Caveolin-1表达降低，并在STZ诱导的糖尿病APOE基因敲除小鼠中减轻了动脉粥样硬化斑块的形成。SIRT6的过表达或激活成为一种新的治疗糖尿病动脉粥样硬化心血管病手段。
+
+相关成果已申请国家发明专利，目前进入实质性审查阶段，未来有望用于降低糖尿病人心血管并发症发生，从而提高糖尿病人生活质量并延长其寿命。杂志主编、美国哈佛大学教授Christos Mantzoros在总结该文时给予赞扬，指出“This is an interesting study unraveling a pathway which governs aggravation of atherosclerosis in a hyperglycemic condition and this study has been well designed in detail and done well.”
+
+
+原文链接：
+https://www.metabolismjournal.com/article/S0026-0495(22)00040-3/fulltext

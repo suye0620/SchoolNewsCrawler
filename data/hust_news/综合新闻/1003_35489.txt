@@ -1,0 +1,14 @@
+我校软件学子电信学子首次在ACL发表文章
+新闻网讯（通讯员 庞秀梅 何琨 张中洋）5月14日，人工智能领域自然语言处理方向的国际顶级学术会议The 57th Annual Meeting of the Association for Computational Linguistics (ACL 2019）公布了2019录取论文，我校软件学院2016级本科生任抒怀、电信学院2015级本科生李泽康的两篇论文均被录取。这是我校第一次以第一单位被ACL录取文章。任抒怀论文题为Generating Natural Language Adversarial Examples through Probability Weighted Word Saliency，计算机学院何琨教授为指导教师、文章通讯作者。李泽康论文题为incremental Transformer with Deliberation Decoder for Document Grounded Conversations，得到电信学院院长黄晓庆、王兴刚副教授等多位团队导师的指导。
+
+ACL(The Association for Computational Linguistics，CCF A类)国际会议是自然语言处理与计算语言学领域（NLP/CL）最权威的国际专业学会。ACL成立于1962年，是自然语言处理(NLP)领域影响力最大、最具活力的顶级国际学术组织。这个学会主办了NLP/CL领域最权威的国际会议，即ACL年会。
+
+
+何琨（右）、任抒怀（左）
+
+
+李泽康
+
+何琨为机器学习与数据挖掘实验室负责人,同时为启明学院示范性创新团队ACM/ICPC集训队的负责老师。在过去几年里，何琨在人工智能领域深耕细作，砥砺前行，屡屡在各人工智能领域国际顶级会议上发表论文。何琨带领不同院系的本科生在ICLR、NIPS（NeurIPS）、ICDM、ACL等顶级会议、期刊上发表的文章已有20多篇。
+
+李泽康的论文提出了一种基于Transformer模型的增量式Transforner+推敲解码器模型，用于解决基于文档知识的多轮对话任务，有效提升了生成回复的上下文的一致性和知识的正确性，在相关数据集的自动评测和人工评测中都取得了远超基线模型的结果。

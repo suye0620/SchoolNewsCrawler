@@ -1,0 +1,19 @@
+2017群体智能优化算法研讨会召开
+新闻网讯（通讯员 李帆）11月19日至20日，由学校主办，机械学院承办的“华中科技大学学术前沿青年团队探索论坛—2017年群体智能优化算法研讨会”召开。新加坡南洋理工大学Ponnuthurai Nagaratnam Suganthan 教授、印度统计研究院Swagatam Das教授、西班牙塞维利亚大学Jose Manuel Framinan 教授等国际知名学者以及来自全国多所高校和科研院所的100多位专家学者参加了会议。
+
+
+本次研讨会围绕群体智能优化算法的国际前沿动态进行了深刻的交流与讨论。我校数字制造装备与技术国家重点实验室副主任高亮教授主持开幕式并致欢迎辞。
+
+Suganthan教授在专题报告“差分进化算法的介绍（An Introduction to Differential Evolution）”和“非迭代方法在分类和预测上的应用（Non-iterative Methods for Classification and Forecasting）”中，分别介绍差分进化算法在单目标、约束、动态、多目标、大规模、多峰优化问题上的研究及非迭代方法在分类和随机森林上的应用。 
+
+南方科技大学史玉回教授围绕“头脑风暴优化算法的发展（Developmental Brain Storm Optimization Algorithms）”的主题，详细阐述了头脑风暴算法的原理及其发展。华东师范大学周爱民教授作题为“关于学习引导的多目标进化算法的研究（Learning Guided Evolutionary Multi- objective Optimization: A Short Survey）”的报告。南洋理工大学高开周研究员作题为“Meta-heuristics for Flexible Job Shop Scheduling and Urban Traffic Light Scheduling（元启发式算法在柔性作业车间调度与城市交通灯调度上的应用）”的报告。
+
+Das教授在“模式聚类——基于中心的方法及其发展趋势（Pattern Clustering – Center Based Approaches and Beyond）”的报告。报告对聚类问题中的一些关键问题展开了讨论和分析。南方科技大学的唐珂教授作了题为“利用自动分解的方法进行优化——启发式搜索视角（Optimization Through Automatic Decomposition – A Heuristic Search Perspective）”的报告。
+
+Framinan教授作了题为“对装配调度问题的分类及现有成果回顾（Assembly Scheduling: A Classification and Review of Contributions）”的报告。汕头大学范衠教授作了题为“基于进化计算的智能机器人系统的自动化设计（Design Automation of Intelligent Robotic Systems Based on Evolutionary Computation）”的报告。郑州大学梁静教授作了题为“关于多峰优化问题的研究（Something about Multimodal Optimization）”的报告。
+
+沈阳化工大学的白丹宇副教授作了题为“考虑释放时间的流水车间在线调度（Flow Shop Learning Effect Scheduling Problem with Release Dates）”的报告。我校计算机学院吕志鹏教授作了题为“基于混合启发式/精确算法的光纤网络设计（A Hybrid Metaheuristic/Exact Algorithm for Optical Network Design Problem）”的报告。
+
+数字制造装备与技术国家重点实验室潘全科教授对本次研讨会作了总结性发言，希望未来能有更多类似这样的学习交流机会。
+
+本次研讨会为广大国内同行搭建了与国际知名学者学术交流的平台，促进了对群体智能优化算法国际前沿动态的了解，进一步促进了工业工程、运筹与优化等相关学科的发展。

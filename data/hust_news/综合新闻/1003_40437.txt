@@ -1,0 +1,20 @@
+生命学院高尚邦教授团队在运动神经突触囊泡分泌领域取得新成果
+新闻网讯（通讯员 冯崇宁）11月2日，生命学院高尚邦教授团队与加拿大多伦多大学Shuzo Sugita教授团队、美国德克萨斯大学Josep Rizo教授团队合作在国际权威期刊《自然·通讯》（Nature Communications）上发表题为“Open syntaxin overcomes synaptic transmission defects in diverseC. elegansexocytosis mutants”的研究论文。加拿大多伦多大学博士生Chi-Wei Tien和我校生命学院博士生余彬为该文共同第一作者。Shuzo Sugita、高尚邦以及Josep Rizo为论文的共同通讯作者。
+
+
+图A. 构建开放构象UNC-64/syntaxin示意图
+
+
+ 图B.野生型背景下，敲入开放性 UNC-64/syntaxin 突变增强神经递质释放
+
+突触囊泡（SV）胞吐作用为神经元间的交流提供了化学基础，使得大脑有了惊人的多样性。可溶性 NSF附着蛋白受体(SNARE)由 syntaxin、 synaptobrevin/VAMP和 SNAP-25组成，在神经递质分泌过程中起着核心作用。紧密的SNARE复合体组装形成，介导突触囊泡与质膜融合，促进神经递质释放。
+
+Syntaxin/UNC-64是关键的诱导蛋白，对SNARE复合体组装和递质释放至关重要。静息时，syntaxin处于封闭构象并与Munc-18 (syntaxin binding protein)形成紧密结合。突触兴奋后，SNARE 复合物的组装需要打开syntaxin 的“封闭”构象。换句话说，开放构象的syntaxin是复合体组装关键一步。在线虫(C. elegans) 中多拷贝过表达开放构象的UNC-64/syntaxin特异拯救UNC-13/Munc13囊泡分泌缺陷，提示UNC-13/Munc13在打开syntaxin过程中具有某种特殊功能(Richmond et al., 2001)。但强烈的多拷贝过表达可能引入非生理性差异，并且开放构象的syntaxin到底如何与其他突触囊泡分泌调控蛋白互作，均未确切知晓。
+
+本研究中，研究人员通过在unc-64缺失线虫中使用CRISPR-Cas9技术直接敲入(knock in,KI) 一个开放构象的syntaxin (L166A/E167A)，制备一个Opensyntaxin线虫。该KI线虫中syntaxin表达水平与野生型线虫一样，从而可以很好模拟开放构象syntaxin在生理情况下的作用机理。借助该Opensyntaxin线虫，研究人员重新评估了syntaxin 开放构象对神经突触分泌和行为的影响。他们将unc-64(LE)/syntaxin KI引入到各种胞吐调控基因突变背景中，系统研究了opensyntaxin和不同突触调节因子之间的相互作用关系。结果显示，开放的syntaxin KI 能够促进神经递质的释放，部分拯救除 Munc18/UNC-18之外的各种囊泡分泌缺陷突变体的表型，包括snt-1/synaptotagmin、 unc-2/P/Q/N型 Ca2+通道α亚基和 unc-31/CAPS，以及 unc-13/Munc-13和 unc-10/RIM，tom-1/Tomosyn 等关键突变体。该结果表明增加由opensyntaxin组装完善的SNARE复合物的数量确实会增强神经递质释放。该研究完善了开放构象syntaxin 和 unc-13以及其他多个分泌调控蛋白之间互作的假说，提示控制开放构象的syntaxin是调节突触传递的通用途径（而非仅仅与unc-13互作）。研究结果有助于发展治疗神经系统疾病诊疗新技术。
+
+该项目国内研究工作得到了自然科学基金委国际合作重点项目、面上项目，湖北杰出青年项目以及华中科技大学的支持。
+
+论文链接：
+
+https://doi.org/10.1038/s41467-020-19178-x

@@ -1,0 +1,6 @@
+土木学院师生在力学领域顶级期刊发表论文
+新闻网讯（通讯员 王琳）2月和3月，固体力学领域顶级期刊《固体中的力学与物理》（Journal of the Mechanics and Physics of Solids，简称JMPS）和流体力学领域顶级期刊《流体力学》（Journal of Fluid Mechanics，简称JFM）先后刊发了土木学院两个研究小组的最新科研成果。
+
+土木学院博士研究生贾康昱及刘小虎教授（通讯作者）合作发表在JMPS的研究论文题为“Measuring the flexural rigidity of actin filaments and microtubules from their thermal fluctuating shapes: A new perspective”（JMPS, Vol. 101, Pages 64–92, 2017），这是我校迄今在JMPS杂志上登出的第3篇学术论文。据介绍，细胞骨架纤维的力学特性是研究细胞生理行为微观机制的基础，该文创新性地提出了借助细胞骨架纤维的布朗运动构型来确定其抗弯刚度的新理论，考虑了采样时间、壁面和非线性动态效应，克服了基于能量均分原理的现有理论的不足，解释了文献中测量结果分散性较大的原因。
+
+土木学院熊永亮副教授及船海学院杨丹副教授（通讯作者）合作发表在JFM的研究论文题为“Influence of slip on the three-dimensionalinstability of flow past an elongatedsuperhydrophobic bluff body”（JFM, Vol. 814, Pages 69-94）。该文的研究结果表明“超疏水特性可有效推迟流动三维不稳定性的发生、但对扰动波长具有选择性的特征”，从理论上阐释了这种波长选择性的内在机理。另据悉，熊永亮为第一作者、杨丹为通讯作者合作发表在JFM杂志上的这篇学术论文，是我校首次以第一署名单位在JFM上发文（据Web of Science查）。

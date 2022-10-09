@@ -1,0 +1,17 @@
+“华中大—悉尼大学学术大讲堂”电信学院专场研讨会成功举行
+新闻网讯 7月1日下午，“华中大—悉尼大学学术大讲堂：面向移动通信与计算融通的信息与能量耦合机理研究研讨会”于线上举行。会议由电子信息与通信学院葛晓虎教授主持，吸引了来自我校和悉尼大学等众多国内外高校的科研工作者以及学生线上参会。
+
+
+悉尼大学李永会教授作题为“URLLC for 5G and beyond（用于5G及以上的超可靠低时延通信）”的报告，介绍了URLLC的可靠性和时延，展示了不同种类的短码的相关仿真结果，重点介绍了基于深度学习的通信系统，展示了基于人工智能对URLLC的研究结果。
+
+悉尼大学Branka教授作题为“Channel Coding for 5G/6G Uitra-reliable Low-latency Communications (URLLC)（用于 5G/6G 超可靠低时延通信 (URLLC) 的信道编码）”的报告，提出了新的极化码设计方案，证明了采用序列译码的短极化码具有最佳的可靠性和复杂度。
+
+瑞士洛桑联邦理工学院Babak教授作题为“Post-Moore Cloud Architecture: Challenges & Opportunities（后摩尔云架构:挑战与机遇）”的报告，提出了需求增长快于摩尔、摩尔定律正在减慢的趋势，总结了后摩尔服务器的特征。
+
+中国科学院计算所田霖教授作题为“Research on High Energy-efficiency Mobile Communication System Architecture and Demonstration（高能效移动通信系统体系结构研究与演示）”的报告，展示了在理论分析和算法设计方面为了优化系统的能量效率做的一些研究。
+
+上海交通大学的李成林教授作题为“Robustness and Generalization of Deep Reinforcement Learning and Applications to Solving Stochastic Optimal Control Problems（深度强化学习的稳定性、推广性及其在解决随机最优控制问题中的应用）”，介绍了深度强化学习解决最优控制问题、单调稳定策略优化、和自适应视频流的应用。
+
+华中科技大学葛晓虎教授作题为“Modelling and Optimization of Low-energy Logic Gates Based on Stochastic Thermodynamics（基于随机热力学的低能逻辑门建模与优化）”的报告，基于随机热力学构建了与门的单能级晶体管模型，提出了基于输入状态转换的与门能耗模型，并采用最优运算顺序对三输入相与电路的能耗进行优化。
+
+本次会议有利于促进学校之间的学术交流与合作，推动双方科研与合作交流的开展，加强双方的学生交流，开拓学生的视野。

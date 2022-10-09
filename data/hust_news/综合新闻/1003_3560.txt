@@ -1,0 +1,11 @@
+土木学院周博汪华斌研究成果在国际顶级期刊发表
+新闻网讯（通讯员 黄劲松）5月17日，岩土工程领域国际顶级期刊《岩土工程技术》（Géotechnique）在线发表了土木学院青年教师周博和汪华斌教授关于砂土颗粒形态的三维重构和多尺度表征的最新研究成果。论文题目为《砂土颗粒的三维球度、圆度和分形维度》（Three-dimensional sphericity, roundness and fractal dimension of sand particles）。 华中科技大学为该文第一作者和通讯作者单位，周博讲师为第一作者，周博和汪华斌为共同通讯作者，第二作者王剑锋副教授来自香港城市大学建筑与土木工程系。
+
+该团队通过对近海石英砂和风化花岗岩残积砂进行高精度的X射线CT扫描和图像处理获得两类不同砂土颗粒的三维形态信息，采用球谐函数序列实现砂土颗粒三维形态的数学表达和准确重构。基于球谐函数重构的三维形态，提出了实用性的方法来计算砂粒的三维球度、三维圆度和三维分形维度，从而精确地实现砂土颗粒三维形态特征的多尺度表征和量化。此研究成果得到了Géotechnique知名审稿人的高度评价：“This paper is a very welcome contribution to the field of morphological analysis of geomaterials. I would be very happy to see the work published.”《岩土工程技术》创刊于1948年，是世界首屈一指的岩土工程领域期刊，发表岩土工程理论与实验方面最高质量的研究成果和学术论文。
+
+ 
+Contours of principal surface curvature of the unit octahedron and the LBS and HDG particles
+
+近些年，随着高精度工业CT技术和计算机数值模拟技术在岩土工程中的发展和应用，从细观尺度上观察和研究岩土介质材料的物理力学行为成为该领域的前沿研究课题，砂土颗粒形态的相关研究已成为近年来岩土工程领域的热点和难点之一。细观尺度上砂土颗粒的形态特征一直被认为是影响砂土在低应力状态下力学特性的主要因素，其三维重构和定量表征则是量化这种形态效应的先决条件，同时也是砂性类介质材料本构模型和数值模拟研究的重要内容，进而科学有效地揭示多尺度砂土材料变形与破坏基本规律。汪华斌团队专注岩土散体介质材料多尺度渐进破坏规律基础理论与工程应用研究，特别是周博近年来一直致力于砂土颗粒三维形态的高精度CT扫描、图像分析、数学表达、三维形态参数的定量表征、新型数值模拟方法及三维打印技术的应用和研究，取得了丰富的研究成果，先后在地质和岩土领域的国际权威期刊如Engineering Geology, International Journal for Numerical and Analytical Methods in Geomechanics等发表原创性的研究成果。本项研究工作也先后获得一项国家自然科学青年基金和两项国家自然科学面上基金以及科技部“十二五”支撑计划重点项目的资助。
+
+文章链接如下：http://www.icevirtuallibrary.com/doi/abs/10.1680/jgeot.16.P.207

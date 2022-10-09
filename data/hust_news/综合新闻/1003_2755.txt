@@ -1,0 +1,8 @@
+电信学院5G核心技术研究成果再次进入ESI高引用论文
+新闻网讯（通讯员　张轶）近日，电信学院刘应状教授研究团队在5G核心技术Massive MIMO方面的研究成果再次进入ESI高被引论文。
+
+据悉，论文发表于国际顶级刊物IEEE JOURNAL ON SELECTED AREAS IN COMMUNICATIONS，题为“A Coordinated Approach to Channel Estimation in Large-Scale Multiple-Antenna Systems”。 论文第一作者为尹海帆，系电信学院2009级硕士研究生，导师为该院刘应状。文中提出了一种能有效对抗Massive MIMO系统中导频污染效应的方法。导频污染是Massive MIMO系统中公认的瓶颈问题。
+
+该论文自2013年发表以来已在国际学术界产生较大的影响力（2014年进入ESI高被引论文），其引用次数已达680余次（Google scholar数据）。引用者中包括Massive MIMO技术提出者Thomas Marzetta（在其专著“Fundamentals of Massive MIMO”中引用了该论文成果），以及无线通信领域的多位顶尖学者，如Erik G. Larsson, Giuseppe Caire等，他们对于该论文都给予了很高的评价，国内包括华为公司、东南大学、北京邮电大学、西安电子科技大学等5G研发团队也多次引用该论文。
+
+该论文研究内容属于国家自然科学基金重点项目“无线网络干扰管理与容量研究”核心研究内容之一。
